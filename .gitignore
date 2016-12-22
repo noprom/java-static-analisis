@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.log
+*.class
+/*.txt
+*.iml
+target
+out/*.java
+out/*.lst
+out/dot/*
+src/main/resources/sysconfig.properties
+src/main/resources/sources.lst
+*.jar
